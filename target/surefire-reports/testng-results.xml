@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8342" started-at="2021-03-17T13:31:40Z" finished-at="2021-03-17T13:31:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8342" started-at="2021-03-17T13:31:40Z" finished-at="2021-03-17T13:31:48Z">
+      <class name="com.fasal.test.ReqresApiTestSuite">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.fasal.test.ReqresApiTestSuite@380fb434]" name="before" is-config="true" duration-ms="653" started-at="2021-03-17T13:31:40Z" finished-at="2021-03-17T13:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="validateListOfAllUsersIsFetchedSuccessfully()[pri:0, instance:com.fasal.test.ReqresApiTestSuite@380fb434]" name="validateListOfAllUsersIsFetchedSuccessfully" duration-ms="2330" started-at="2021-03-17T13:31:41Z" finished-at="2021-03-17T13:31:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateListOfAllUsersIsFetchedSuccessfully -->
+        <test-method status="PASS" signature="validateSingleUserDetailsAreFetchedSuccessfully()[pri:0, instance:com.fasal.test.ReqresApiTestSuite@380fb434]" name="validateSingleUserDetailsAreFetchedSuccessfully" duration-ms="746" started-at="2021-03-17T13:31:43Z" finished-at="2021-03-17T13:31:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSingleUserDetailsAreFetchedSuccessfully -->
+        <test-method status="PASS" signature="validateUserCanBeDeletedSuccessfully()[pri:0, instance:com.fasal.test.ReqresApiTestSuite@380fb434]" name="validateUserCanBeDeletedSuccessfully" duration-ms="1278" started-at="2021-03-17T13:31:44Z" finished-at="2021-03-17T13:31:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserCanBeDeletedSuccessfully -->
+        <test-method status="PASS" signature="validateUserDetailsIsUpdatedSuccessfully()[pri:0, instance:com.fasal.test.ReqresApiTestSuite@380fb434]" name="validateUserDetailsIsUpdatedSuccessfully" duration-ms="1106" started-at="2021-03-17T13:31:45Z" finished-at="2021-03-17T13:31:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserDetailsIsUpdatedSuccessfully -->
+        <test-method status="PASS" signature="validateUserIsCreatedSuccessfully()[pri:0, instance:com.fasal.test.ReqresApiTestSuite@380fb434]" name="validateUserIsCreatedSuccessfully" duration-ms="1053" started-at="2021-03-17T13:31:46Z" finished-at="2021-03-17T13:31:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserIsCreatedSuccessfully -->
+        <test-method status="PASS" signature="validateUserRegistrationIsSuccessful()[pri:0, instance:com.fasal.test.ReqresApiTestSuite@380fb434]" name="validateUserRegistrationIsSuccessful" duration-ms="1160" started-at="2021-03-17T13:31:47Z" finished-at="2021-03-17T13:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserRegistrationIsSuccessful -->
+      </class> <!-- com.fasal.test.ReqresApiTestSuite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
